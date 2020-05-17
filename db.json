@@ -1,7 +1,7 @@
 {
   "organisations":[
     {
-      "id": "feuerwehr",
+      "id": 1,
       "organisation": "Feuerwehr",
       "wert": 50,
       "vergleichswert":20,
@@ -9,7 +9,7 @@
       "gelb-wert":15
     },
     {
-      "id": "altenheim",
+      "id": 2,
       "organisation": "Altenheim",
       "wert": 30,
       "vergleichswert":3,
@@ -17,7 +17,7 @@
       "gelb-wert":8
     },
     {
-      "id": "wasserwerk",
+      "id": 3,
       "organisation": "Wasserwerk",
       "wert": 150,
       "vergleichswert":50,
